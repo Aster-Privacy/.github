@@ -1,34 +1,20 @@
-# Aster - A Privacy-First Email
+# Aster
+Privacy-first security tools for everyone.
 
-Aster is a secure, encrypted, email and messaging platform designed for people who actually care about their privacy. Built for individuals, professionals, and organizations, Aster ensures your communication stays *yours*. Not harvested, tracked, sold, or scanned.
+---
 
-# Whats Special About Aster?
+We offer **Aster Authenticator** and **Aster Email** - two products focused on keeping your accounts and communications safe with end-to-end encryption. We're currently building more tools to expand our privacy-focused ecosystem.
 
-Aster is the next-generation privacy communication suite that combines:
+We shouldn't be able to read your sh*t - period. Every single Aster tool is fully end-to-end encrypted. We can't read your messages, access your accounts, or see anything you do. Zero access means zero compromise.
 
-- 🔐 **Zero-Knowledge Encrypted Email**
-- 💬 **Private End-to-End Encrypted Messaging**
-- 🧪 **Open-source transparency & verifiable security**
+---
 
-Aster doesn’t rely on ad-tech, analytics farms, or surveillance networks. Data is never scraped or shared.
+## Why Open Source?
+Trust shouldn't be blind. Everything we build is open source so you can verify our code, report issues, and contribute improvements. Browse our repos, open issues, or submit a PR - we welcome all contributions 💖.
 
-## Contributing
+---
 
-Aster is built by people who care about privacy, security, and doing things the right way. Contributions are welcome and encouraged.
+## Join the Community
+We're always looking to connect with privacy advocates, developers, and anyone who cares about digital security. Share feedback, request features, or just say hello.
 
-You can help by:
-
-* Reporting bugs or security issues responsibly
-* Submitting pull requests for fixes, features, or performance improvements
-* Reviewing code and improving documentation
-* Auditing or testing encryption and privacy related components
-
-All contributions should follow the project’s security and privacy principles. No tracking, no telemetry, no hidden behavior. Keep things clean, transparent, and user first.
-
-If you are unsure where to start, check the issues tab or propose an idea with a clear explanation of the problem it solves.
-
-## ⭐ Support the Project
-
-If you believe digital privacy is a right in this constantly monitored society, and not a luxury, consider starring the repository and sharing Aster.
-
-*Note all of our repositories are private while they are being developed*
+**Find us:** [Discord](https://discord.gg/EvZGep3Uqh) · [X](https://x.com/AsterPrivacy)
