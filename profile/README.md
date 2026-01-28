@@ -1,4 +1,4 @@
-# Aster
+# Aster Privacy
 Privacy-first security tools for everyone.
 
 We offer **Aster Authenticator** and **Aster Email** - two products focused on keeping your accounts and communications safe with end-to-end encryption. We're currently building more tools to expand our privacy-focused ecosystem.
