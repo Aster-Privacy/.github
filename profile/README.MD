@@ -22,7 +22,7 @@ We encrypt as much metadata as we possibly can while keeping email seamless and 
 - Attachment data
 
 ## Contributing
-We welcome feedback and contributions of all kinds. If you find a bug, please open an issue. If you would like to contribute code, please fork the repository and open a pull request. Please read CONTRIBUTING.md before submitting anything. 
+We welcome feedback and contributions of all kinds. If you find a bug, please open an issue. If you would like to contribute code, please fork the repository and open a pull request. Please read [CONTRIBUTING.md](https://github.com/Aster-Privacy/.github/blob/main/CONTRIBUTING.md) before submitting anything.
 
 ## Join the Community
 If you would like to get involved, share your feedback, or just keep up with Aster, you can find us here:
