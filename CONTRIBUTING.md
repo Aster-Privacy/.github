@@ -47,4 +47,4 @@ By contributing to any Aster repository, you agree that your contributions will 
 
 ## Questions?
 
-If you have any questions, feel free to join our [Discord](https://discord.gg/t5fKbGmvKD) if you would like to discuss something before opening an issue or pull request.
+If you have any questions, feel free to join our [Discord](https://discord.gg/R4XqRUfgWZ) if you would like to discuss something before opening an issue or pull request.
