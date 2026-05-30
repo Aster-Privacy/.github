@@ -26,6 +26,6 @@ We welcome feedback and contributions of all kinds. If you find a bug, please op
 
 ## Join the Community
 If you would like to get involved, share your feedback, or just keep up with Aster, you can find us here:
-- [Discord](https://discord.gg/t5fKbGmvKD)
+- [Discord](https://discord.gg/R4XqRUfgWZ)
 - [X / Twitter](https://x.com/AsterPrivacy)
 - [Reddit](https://www.reddit.com/r/AsterPrivacy/)
