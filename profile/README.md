@@ -4,7 +4,7 @@
 
 Aster builds end-to-end encrypted email that keeps your communication private and free from censorship.
 
-- **[Aster Mail](https://astermail.org)** - end-to-end encrypted email, available in beta
+- **[Aster Mail](https://astermail.org)** - quantum-safe, end-to-end encrypted email
 - **Aster Authenticator** - end-to-end encrypted two-factor authentication app, in development
 
 ## Open source
