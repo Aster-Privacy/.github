@@ -5,10 +5,10 @@
 Aster builds end-to-end encrypted email, calendar, and privacy apps that keep your communication private and free from censorship.
 
 - **[Aster Mail](https://astermail.org)** - quantum-safe, end-to-end encrypted email
-- **Aster Calendar** - end-to-end encrypted calendar, in beta
-- **Aster Messages** - private, ad-free SMS and MMS app for Android, in beta
-- **Aster Bridge** - desktop bridge that connects IMAP, POP, and SMTP mail clients to Aster Mail
-- **Aster Send** - command-line tool that sends email through any SMTP server
+- **[Aster Calendar](https://github.com/Aster-Privacy/Aster-Calendar)** - end-to-end encrypted calendar, in beta
+- **[Aster Messages](https://play.google.com/store/apps/details?id=org.astermail.messages)** - private, ad-free SMS and MMS app for Android, in beta
+- **[Aster Bridge](https://astermail.org/bridge)** - desktop bridge that connects IMAP, POP, and SMTP mail clients to Aster Mail
+- **[Aster Send](https://github.com/Aster-Privacy/Aster-Send)** - command-line tool that sends email through any SMTP server
 - **Aster Authenticator** - end-to-end encrypted two-factor authentication app, in development
 - **Aster Companion** - browser extension that fills and creates Aster Mail aliases, in development
 
