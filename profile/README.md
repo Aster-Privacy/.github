@@ -4,7 +4,7 @@
 
 Aster builds end-to-end encrypted email, calendar, and privacy apps that keep your communication private and free from censorship.
 
-- **[Aster Mail](https://astermail.org)** - quantum-safe, end-to-end encrypted email
+- **[Aster Mail](https://astermail.org)** - end-to-end encrypted email, with post-quantum protection between Aster accounts
 - **[Aster Calendar](https://github.com/Aster-Privacy/Aster-Calendar)** - end-to-end encrypted calendar, in beta
 - **[Aster Messages](https://play.google.com/store/apps/details?id=org.astermail.messages)** - private, ad-free SMS and MMS app for Android, in beta
 - **[Aster Bridge](https://astermail.org/bridge)** - desktop bridge that connects IMAP, POP, and SMTP mail clients to Aster Mail
@@ -18,15 +18,15 @@ Aster's application code is open source under [AGPL v3](https://www.gnu.org/lice
 
 ## Security and encryption
 
-All encryption and decryption happens on your device. Mail between Aster accounts uses a Signal-inspired protocol (X3DH and Double Ratchet) with ML-KEM-768 post-quantum cryptography, which protects against store-now-decrypt-later attacks. Mail to external recipients uses Ed25519 OpenPGP with Curve25519 encryption subkeys, portable keys that work with any OpenPGP client.
+Mail between Aster accounts is encrypted and decrypted on your device. It uses a Signal-inspired protocol (X3DH and Double Ratchet) with ML-KEM-768 post-quantum cryptography, which protects against store-now-decrypt-later attacks. Mail to external recipients uses Ed25519 OpenPGP with Curve25519 encryption subkeys when the recipient publishes a key, and your keys are portable and work with any OpenPGP client. Mail that arrives from outside Aster without OpenPGP encryption reaches our servers readable, and we encrypt it with your public key as soon as it arrives.
 
-Aster encrypts as much metadata as possible, including:
+Aster encrypts as much as mail delivery allows. Routing data such as sender and recipient addresses and timestamps stays visible to our servers. Encrypted data includes:
 
 - Subject lines
 - Contacts
 - Folder structure
 - Search indices
-- Timestamps
+- Message content
 - Attachment data
 
 ## Contributing
