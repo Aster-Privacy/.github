@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  profile:
+    name: Profile
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Check profile files
+        run: |
+          test -s profile/README.md
+          test -s profile/aster_logo.png
+          grep -q "aster_logo.png" profile/README.md
